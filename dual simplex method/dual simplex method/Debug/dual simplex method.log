@@ -1,0 +1,5 @@
+﻿  dualsimplex.cpp
+d:\学习\大三上\应用运筹学\dual simplex method\dual simplex method\dualsimplex.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大三上\应用运筹学\dual simplex method\dual simplex method\dualsimplex.cpp(227): warning C4101: “argmin_outbase”: 未引用的局部变量
+  dual simplex method.vcxproj -> D:\学习\大三上\应用运筹学\dual simplex method\Debug\dual simplex method.exe
+  dual simplex method.vcxproj -> D:\学习\大三上\应用运筹学\dual simplex method\Debug\dual simplex method.pdb (Partial PDB)
